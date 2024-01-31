@@ -1,0 +1,1 @@
+route groups are made  up of individual routes. route groups allows us to logically group our routes together under a common folder, which makes it easier for developers to understand the purpose and functionality of the folder without affecting the url path structure 
